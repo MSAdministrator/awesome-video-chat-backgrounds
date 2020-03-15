@@ -65,3 +65,6 @@ Below is a list of awesome video chat backgrounds!  Please submit pull requests 
 * [Southwest Airplane](./images/southwest_airplane.jpeg)
 * [Fighter Pilot Selfie Without Missle Launch](./images/Fighter_Pilot_Selfie_without_Missle_Launch.jpg)
 * [R2D2](./images/r2d2.jpg)
+* [Akira](./images/akira.jpg)
+* [Room from Control](./images/ControlRoom.jpg)
+* [Floating officemates from Control](./images/officezfloat.jpg)
