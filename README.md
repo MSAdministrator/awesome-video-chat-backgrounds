@@ -23,7 +23,6 @@ Just in case you're at home on a video call and you haven't had time to tidy up 
 <a href="./images/trex_roar.jpeg" title="Trex Roar"> <img align="center" src="./images/trex_roar.jpeg" width="540px"/></a>
 <a href="./images/jet_rocket.jpg" title="Jet Rocket"> <img align="center" src="./images/jet_rocket.jpg" width="540px"/></a>
 <a href="./images/not_just_noodeles.jpg" title="Not Just Noodeles"> <img align="center" src="./images/not_just_noodeles.jpg" width="540px"/></a>
-<a href="./images/tie_fighter_moon.jpeg" title="Tie Fighter Moon"> <img align="center" src="./images/tie_fighter_moon.jpeg" width="540px"/></a>
 <a href="./images/forest_and_mountains.jpg" title="Forest And Mountains"> <img align="center" src="./images/forest_and_mountains.jpg" width="540px"/></a>
 <a href="./images/future_painting_monster.jpg" title="Future Painting Monster"> <img align="center" src="./images/future_painting_monster.jpg" width="540px"/></a>
 <a href="./images/officezfloat.jpg" title="Officezfloat"> <img align="center" src="./images/officezfloat.jpg" width="540px"/></a>
@@ -59,6 +58,7 @@ Just in case you're at home on a video call and you haven't had time to tidy up 
 <a href="./images/ControlRoom.jpg" title="Controlroom"> <img align="center" src="./images/ControlRoom.jpg" width="540px"/></a>
 <a href="./images/game_of_thrones_throne.jpeg" title="Game Of Thrones Throne"> <img align="center" src="./images/game_of_thrones_throne.jpeg" width="540px"/></a>
 <a href="./images/blurry_office.jpeg" title="Blurry Office"> <img align="center" src="./images/blurry_office.jpeg" width="540px"/></a>
+<a href="./images/international_space_station.jpeg" title="International Space Station"> <img align="center" src="./images/international_space_station.jpeg" width="540px"/></a>
 <a href="./images/sun_setting_over_mountains.jpg" title="Sun Setting Over Mountains"> <img align="center" src="./images/sun_setting_over_mountains.jpg" width="540px"/></a>
 <a href="./images/Death_Star.jpg" title="Death Star"> <img align="center" src="./images/Death_Star.jpg" width="540px"/></a>
 <a href="./images/by_milk_1920.jpg" title="By Milk 1920"> <img align="center" src="./images/by_milk_1920.jpg" width="540px"/></a>
