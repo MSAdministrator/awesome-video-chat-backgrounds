@@ -6,17 +6,18 @@ onlyfiles = [f for f in listdir(image_path) if isfile(join(image_path, f))]
 
 readme = '''# awesome-video-chat-backgrounds
 
-Awesome Video Chat Backgrounds
+Just in case you're at home on a video call and you haven't had time to tidy up your REAL background, here are some awesome backgrounds to help you get through your next video chat.  
 
-Below is a list of awesome video chat backgrounds!  Please submit pull requests to add additional photos/images to this collection!
+## Contributing
+* Please submit pull requests to add additional photos/images to this collection!
+* Images should be minimum of 1080 (width) x 550 (height) pixels
 
 ## Image List
 
 '''
 for file in onlyfiles:
-    list_name = file.split('.')[0].replace('_',' ').title()
-    readme += '* [{}](./images/{})\n'.format(list_name, file)
-    print('* [{}](./images/{})'.format(list_name, file))
+    title = file.split('.')[0].replace('_',' ').title()
+    readme += '<a href="./images/{}" title="{}"> <img align="center" src="./images/{}" width="540px"/></a>\n'.format(file, title, file)
 
 with open('README.md','w+') as f:
     f.write(readme)
