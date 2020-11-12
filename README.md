@@ -36,6 +36,7 @@ Just in case you're at home on a video call and you haven't had time to tidy up 
 <a href="./images/akira.jpg" title="Akira"> <img align="center" src="./images/akira.jpg" width="540px"/></a>
 <a href="./images/stairry_night.jpg" title="Stairry Night"> <img align="center" src="./images/stairry_night.jpg" width="540px"/></a>
 <a href="./images/rough_seas.jpg" title="Rough Seas"> <img align="center" src="./images/rough_seas.jpg" width="540px"/></a>
+<a href="./images/four_seasons_total_landscaping.png" title="Four Seasons Total Landscaping"> <img align="center" src="./images/four_seasons_total_landscaping.png" width="540px"/></a>
 <a href="./images/street_long_exposure_3.jpg" title="Street Long Exposure 3"> <img align="center" src="./images/street_long_exposure_3.jpg" width="540px"/></a>
 <a href="./images/anime_river.jpeg" title="Anime River"> <img align="center" src="./images/anime_river.jpeg" width="540px"/></a>
 <a href="./images/empty_airport_terminal.jpeg" title="Empty Airport Terminal"> <img align="center" src="./images/empty_airport_terminal.jpeg" width="540px"/></a>
