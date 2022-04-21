@@ -8,6 +8,7 @@ Just in case you're at home on a video call and you haven't had time to tidy up 
 
 ## Image List
 
+<a href="./images/just_keep_swimming.png" title="Just Keep Swimming"><img align="center" src="./images/just_keep_swimming.png" width="540px"/></a>
 <a href="./images/racoons.jpeg" title="Racoons"> <img align="center" src="./images/racoons.jpeg" width="540px"/></a>
 <a href="./images/blue_water_fish_boat.jpg" title="Blue Water Fish Boat"> <img align="center" src="./images/blue_water_fish_boat.jpg" width="540px"/></a>
 <a href="./images/helicopter_fire.jpg" title="Helicopter Fire"> <img align="center" src="./images/helicopter_fire.jpg" width="540px"/></a>
